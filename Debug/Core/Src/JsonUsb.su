@@ -1,0 +1,9 @@
+../Core/Src/JsonUsb.c:5:6:USB_Init	224	static
+../Core/Src/JsonUsb.c:14:20:voltages_json	616	static
+../Core/Src/JsonUsb.c:57:20:balancing_json	616	static
+../Core/Src/JsonUsb.c:103:20:temperatures_json	616	static
+../Core/Src/JsonUsb.c:161:20:humidities_json	104	static
+../Core/Src/JsonUsb.c:204:20:PECerrors_json	104	static
+../Core/Src/JsonUsb.c:247:20:Accu_json	72	static
+../Core/Src/JsonUsb.c:395:20:Ivt_json	72	static
+../Core/Src/JsonUsb.c:472:20:Elcon_json	72	static

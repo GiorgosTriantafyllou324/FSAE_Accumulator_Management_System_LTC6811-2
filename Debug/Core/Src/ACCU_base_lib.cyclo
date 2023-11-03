@@ -1,0 +1,7 @@
+../Core/Src/ACCU_base_lib.c:7:6:Accu_Struct_Init	2
+../Core/Src/ACCU_base_lib.c:82:6:IVT_Struct_Init	2
+../Core/Src/ACCU_base_lib.c:112:6:Elcon_Struct_Init	2
+../Core/Src/ACCU_base_lib.c:142:6:update_imd_status	24
+../Core/Src/ACCU_base_lib.c:204:6:update_BMS_Errors	37
+../Core/Src/ACCU_base_lib.c:307:6:update_TSAC_Errors	9
+../Core/Src/ACCU_base_lib.c:349:6:ams_fault	1

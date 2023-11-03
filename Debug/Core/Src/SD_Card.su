@@ -1,0 +1,3 @@
+../Core/Src/SD_Card.c:28:9:SD_Card_init	656	static
+../Core/Src/SD_Card.c:159:6:SD_card_write	784	static
+../Core/Src/SD_Card.c:268:6:SD_card_read	256	static

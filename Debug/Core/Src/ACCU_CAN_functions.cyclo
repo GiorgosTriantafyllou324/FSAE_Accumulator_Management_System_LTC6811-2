@@ -1,0 +1,16 @@
+../Core/Src/ACCU_CAN_functions.c:15:6:CAN_Handler_Init	1
+../Core/Src/ACCU_CAN_functions.c:32:6:IVT_CAN_Rx	6
+../Core/Src/ACCU_CAN_functions.c:72:19:Elcon_CAN_Tx	4
+../Core/Src/ACCU_CAN_functions.c:113:6:Elcon_CAN_Rx	2
+../Core/Src/ACCU_CAN_functions.c:132:19:Elcon_stop_charging	1
+../Core/Src/ACCU_CAN_functions.c:141:19:Charger_CAN_Tx	1
+../Core/Src/ACCU_CAN_functions.c:168:6:TSAC_CAN_Rx	7
+../Core/Src/ACCU_CAN_functions.c:186:19:TSAC_Energy_CAN_Tx	1
+../Core/Src/ACCU_CAN_functions.c:207:19:Cell_Temp_CAN_Tx	1
+../Core/Src/ACCU_CAN_functions.c:220:19:TSAC_Status_CAN_Tx	2
+../Core/Src/ACCU_CAN_functions.c:256:19:Cell_Voltage_CAN_Tx	1
+../Core/Src/ACCU_CAN_functions.c:276:19:Error_Msg_CAN_Tx	9
+../Core/Src/ACCU_CAN_functions.c:312:19:CAN_Tx	2
+../Core/Src/ACCU_CAN_functions.c:330:19:CAN_Rx	2
+../Core/Src/ACCU_CAN_functions.c:343:6:Error_Handler_CAN	2
+../Core/Src/ACCU_CAN_functions.c:351:6:read_P23_messages	18

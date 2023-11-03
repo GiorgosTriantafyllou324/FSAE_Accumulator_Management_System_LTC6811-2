@@ -1,0 +1,15 @@
+../Core/Src/SoC_Estimator.c:25:12:choldc1	56	static
+../Core/Src/SoC_Estimator.c:50:12:choldcsl	56	static
+../Core/Src/SoC_Estimator.c:71:12:cholsl	56	static
+../Core/Src/SoC_Estimator.c:100:13:zeros	32	static
+../Core/Src/SoC_Estimator.c:107:13:mulmat	48	static
+../Core/Src/SoC_Estimator.c:118:13:mulvec	48	static
+../Core/Src/SoC_Estimator.c:129:13:transpose	32	static
+../Core/Src/SoC_Estimator.c:139:13:accum	40	static
+../Core/Src/SoC_Estimator.c:146:13:negate	40	static
+../Core/Src/SoC_Estimator.c:153:13:mat_addeye	32	static
+../Core/Src/SoC_Estimator.c:159:6:ekf_init	16	static
+../Core/Src/SoC_Estimator.c:182:9:ekf_step	40	static
+../Core/Src/SoC_Estimator.c:224:9:SoC_update_step	48	static
+../Core/Src/SoC_Estimator.c:259:6:update_accu_model	24	static
+../Core/Src/SoC_Estimator.c:276:7:find_ah_from_voltage	40	static

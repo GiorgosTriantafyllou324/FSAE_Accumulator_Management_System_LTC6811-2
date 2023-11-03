@@ -1,0 +1,16 @@
+../Core/Src/freertos.c:183:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:196:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:210:6:MX_FREERTOS_Init	120	static
+../Core/Src/freertos.c:328:6:StartDefaultTask	24	static
+../Core/Src/freertos.c:361:6:Canbus_Task	8	static
+../Core/Src/freertos.c:406:6:timTSACBus_Callback	16	static
+../Core/Src/freertos.c:429:6:ACCU_Error_Handler	16	static
+../Core/Src/freertos.c:468:6:read_Inputs_Task	8	static
+../Core/Src/freertos.c:589:6:TS_OFF_Check	16	static
+../Core/Src/freertos.c:639:6:PreCharge_Task	16	static
+../Core/Src/freertos.c:668:6:TS_Activation_Task	24	static
+../Core/Src/freertos.c:726:6:BMS_Main_Task	16	static
+../Core/Src/freertos.c:764:6:BMS_Communication_Task	64	static
+../Core/Src/freertos.c:869:6:SDCard_Task	8	static
+../Core/Src/freertos.c:890:6:USB_Task	8	static
+../Core/Src/freertos.c:963:6:Charge_Task	8	static
