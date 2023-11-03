@@ -1,3 +1,4 @@
+# LTC6811-2 Drivers Documentation
 * The architecture of the BMS is a master-slave configuration where the master (STM32F4 MCU) communicates via iso-SPI with 16 slave PCBS (LTC6811-2) connected in parallel. The schematic of the slave PCBs can be found in this folder. Each sensing IC measures 9 cell voltages and has 5 analog inputs for NTC measurements. On the PCB, it can be defined if the 5th measurement will be temperature or humidity measurement (NTC or RH sensor).
 
 The LTC6811-2 libraries can be found in ACCU_Code\Core\Inc & ACCU_Code\Core\Src
