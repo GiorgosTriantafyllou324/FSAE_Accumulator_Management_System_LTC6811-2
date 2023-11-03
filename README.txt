@@ -9,7 +9,7 @@ ACCU_Code\Core\Src
 
 These libraries include:
 
-* LTC6811_BMS_Sensing_IC Custom Drivers 
+* LTC6811-2_BMS_Sensing_IC Custom Drivers 
       Further documentation in the LTC6811_Drivers_Documentation folder
 
 * Charge Process and Current Measurement
