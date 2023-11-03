@@ -1,3 +1,4 @@
+# FSAE_Accumulator_Management_System
 The code is written for the STM32 MCU family - specifically used STM32F4
 FreeRTOS is utilized, so the main file is  ACCU_Code\Core\Src\freertos.c
 
