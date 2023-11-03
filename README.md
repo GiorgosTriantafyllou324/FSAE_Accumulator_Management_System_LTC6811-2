@@ -4,8 +4,8 @@ FreeRTOS is utilized, so the main file is  ACCU_Code\Core\Src\freertos.c
 
 
 Most custom libraries are included in the following paths:
-ACCU_Code\Core\Inc
-ACCU_Code\Core\Src
+- ACCU_Code\Core\Inc
+- ACCU_Code\Core\Src
 
 
 These libraries include:
