@@ -22,5 +22,5 @@ These libraries include:
 
 * Precharge function for an FSAE car: Can be found in the freertos.c file
       
-* Various other functionalities
+* Various other functionalities ...
 
