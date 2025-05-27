@@ -1,5 +1,6 @@
 # FSAE_Accumulator_Management_System
 This project is created to accomodate the needs of a 600V Battery Pack management and communication system for an electric race car participating in the FSAE International Competition.
+
 Its core component is the **Battery Management System (BMS)** that ensures safe charging and discharging of the 288 cells, but other features pertaining the Precharge Process for the inverter DC Link Capacitor, 
 data logging to an SD card, communication with the rest of the car through CAN bus and data transmission to a PC through USB.
 
