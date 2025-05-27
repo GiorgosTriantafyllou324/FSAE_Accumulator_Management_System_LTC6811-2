@@ -6,11 +6,11 @@ data logging to an SD card, communication with the rest of the car through CAN b
 
 The code is written for the STM32 MCU family - specifically used STM32F4
 
-FreeRTOS is utilized, so the main file is  ```ACCU_Code\Core\Src\freertos.c```
+FreeRTOS is utilized, so the main file is  ```ACCU_Code/Core/Src/freertos.c```
 
 All these implemented services can be found inside the following paths:
-- ACCU_Code\Core\Inc
-- ACCU_Code\Core\Src
+- ACCU_Code/Core/Inc
+- ACCU_Code/Core/Src
 
 The aforementioned custom libraries include:
 
